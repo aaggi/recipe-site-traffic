@@ -1,6 +1,3 @@
-![Billede1](https://github.com/aaggi/recipe-site-traffic/assets/159773825/931238b5-c67e-4cba-833e-91fb6d80dd36)
-
-
 **From my Data Scientist Professional Certification on DataCamp**
 
 The project resamples a real life Data Science assignment. The assignment is to perform an analysis and write a short report.
@@ -49,6 +46,8 @@ The written report (notebook) include written text summaries and graphics of the
 ● Final summary including recommendations that the business should undertake
 
 **About Tasty Bytes**
+
+![Billede1](https://github.com/aaggi/recipe-site-traffic/assets/159773825/931238b5-c67e-4cba-833e-91fb6d80dd36)
 
 Tasty Bytes was founded in 2020 in the midst of the Covid Pandemic. The world wanted
 inspiration so we decided to provide it. We started life as a search engine for recipes, helping
