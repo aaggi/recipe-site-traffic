@@ -1,3 +1,6 @@
+![Billede1](https://github.com/aaggi/recipe-site-traffic/assets/159773825/931238b5-c67e-4cba-833e-91fb6d80dd36)
+
+
 **From my Data Scientist Professional Certification on DataCamp**
 
 The project resamples a real life Data Science assignment. The assignment is to perform an analysis and write a short report.
